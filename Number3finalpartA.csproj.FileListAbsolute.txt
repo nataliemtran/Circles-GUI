@@ -1,0 +1,10 @@
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\obj\Debug\Number3finalpartA.csprojAssemblyReference.cache
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\obj\Debug\Number3finalpartA.Form1.resources
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\obj\Debug\Number3finalpartA.Properties.Resources.resources
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\obj\Debug\Number3finalpartA.csproj.GenerateResource.cache
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\obj\Debug\Number3finalpartA.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\bin\Debug\Number3finalpartA.exe.config
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\bin\Debug\Number3finalpartA.exe
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\bin\Debug\Number3finalpartA.pdb
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\obj\Debug\Number3finalpartA.exe
+C:\Users\natal\source\repos\Number3finalpartA\Number3finalpartA\obj\Debug\Number3finalpartA.pdb
